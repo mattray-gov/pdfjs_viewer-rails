@@ -17,7 +17,7 @@ gem 'pdfjs_viewer-rails'
 This gem ships with three viewer styles:
  
 **full**
-
+    
 <p align="center">
   <img
   src="https://raw.githubusercontent.com/senny/pdfjs_viewer-rails/master/doc/files/viewer_full.png"
