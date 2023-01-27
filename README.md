@@ -15,7 +15,7 @@ gem 'pdfjs_viewer-rails'
 ## Viewer Styles
 
 This gem ships with three viewer styles:
-
+ 
 **full**
 
 <p align="center">
